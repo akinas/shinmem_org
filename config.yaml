@@ -1,0 +1,4 @@
+baseURL: https://one.wordpress.test
+disablePathToLower: true
+languageCode: en-us
+title: My New Hugo Site
