@@ -1,4 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "http://shinmem.org/"
 languageCode = "ru"
-title = "My New Hugo Site"
+title = "ש\"מ | ShinMem"
 theme = "chunky-poster"
+copyright = "Copyright © 2010–2020, Daniel Levin."
+
+
+[params]
+  author = "Daniel Levin"
+  description = "אור השם"
+  homepageImage = "/images/homepage-image.jpg"
+  share = true
