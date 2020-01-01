@@ -8,9 +8,9 @@ excerpt: Несколько несоответствий между тем, ка
   демократическую составляющую и тем, каковой демократия является на самом деле.
 guid: http://shinmem.org/?p=668
 id: 668
-image: /wp-content/uploads/2016/11/ertln_spq1s-andrew-neel_small-1200x800.jpg
+image: /wp-content/uploads/2016/11/ertln_spq1s-andrew-neel_small.jpg
 images:
-- /images/ertln_spq1s-andrew-neel_small-1200x800.jpg
+- /images/ertln_spq1s-andrew-neel_small.jpg
 summary: Несколько несоответствий между тем, как либеральная демократия видит свою
   демократическую составляющую и тем, каковой демократия является на самом деле.
 title: О демократичности либерализма

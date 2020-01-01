@@ -5,9 +5,9 @@ categories:
 date: "2014-04-07T16:21:39Z"
 guid: http://shinmem.org/?p=536
 id: 536
-image: /wp-content/uploads/2014/04/Civil-Courtroom-Galleries-of-Justice-low-res1-672x372.jpg
+image: /wp-content/uploads/2014/04/Civil-Courtroom-Galleries-of-Justice-low-res1.jpg
 images:
-- /images/Civil-Courtroom-Galleries-of-Justice-low-res1-672x372.jpg
+- /images/Civil-Courtroom-Galleries-of-Justice-low-res1.jpg
 tags:
 - перевод
 - статья

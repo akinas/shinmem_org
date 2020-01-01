@@ -5,9 +5,9 @@ categories:
 date: "2013-06-16T19:08:28Z"
 guid: http://shinmem.org/?p=498
 id: 498
-image: /wp-content/uploads/2013/06/quino-al-101314-220x126.jpg
+image: /wp-content/uploads/2013/06/quino-al-101314.jpg
 images:
-- /images/quino-al-101314-220x126.jpg
+- /images/quino-al-101314.jpg
 tags:
 - образование
 - рав Шагар

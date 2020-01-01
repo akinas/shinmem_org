@@ -7,9 +7,9 @@ excerpt: 'Поступил ли человек определенным обра
   лишь будучи абсолютно уверенным в его осведомленности о доктринах этой самой религии. '
 guid: http://shinmem.org/?p=616
 id: 616
-image: /wp-content/uploads/2016/03/public-domain-vintage-mugshots-1920s-small-1200x628.jpg
+image: /wp-content/uploads/2016/03/public-domain-vintage-mugshots-1920s-small.jpg
 images:
-- /images/public-domain-vintage-mugshots-1920s-small-1200x628.jpg
+- /images/public-domain-vintage-mugshots-1920s-small.jpg
 summary: 'Поступил ли человек определенным образом под влиянием религии, можно понять
   лишь будучи абсолютно уверенным в его осведомленности о доктринах этой самой религии. '
 tags:

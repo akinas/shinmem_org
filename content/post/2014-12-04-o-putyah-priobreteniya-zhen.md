@@ -8,9 +8,9 @@ excerpt: Есть два пути заключения брака, один — 
   брака, конечный результат остается неизменным.
 guid: http://shinmem.org/?p=581
 id: 581
-image: /wp-content/uploads/2014/12/death_the_bride-672x372.jpg
+image: /wp-content/uploads/2014/12/death_the_bride.jpg
 images:
-- /images/death_the_bride-672x372.jpg
+- /images/death_the_bride.jpg
 summary: Есть два пути заключения брака, один — это путь приобретения, а другой —
   посвящения. Не смотря на то, что есть практическая разница между путями заключения
   брака, конечный результат остается неизменным.

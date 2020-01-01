@@ -6,9 +6,9 @@ categories:
 date: "2012-07-08T12:59:02Z"
 guid: http://shinmem.org/?p=408
 id: 408
-image: /wp-content/uploads/2012/07/river_rock-1200x800.jpg
+image: /wp-content/uploads/2012/07/river_rock.jpg
 images:
-- /images/river_rock-1200x800.jpg
+- /images/river_rock.jpg
 tags:
 - Раавад
 - раби Хаим Виталь
