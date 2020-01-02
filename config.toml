@@ -8,5 +8,5 @@ copyright = "Copyright © 2010–2020, Daniel Levin."
 [params]
   author = "Daniel Levin"
   description = "אור השם"
-  homepageImage = "/images/homepage-image.jpg"
+  homepageImage = "/images/logo_shinmem_ship.jpg"
   share = true
