@@ -3,7 +3,7 @@ languageCode = "ru"
 title = "ש\"מ | ShinMem"
 theme = "chunky-poster"
 copyright = "Copyright © 2010–2020, Daniel Levin."
-
+googleAnalytics = "UA-4319585-4"
 
 [params]
   author = "Daniel Levin"
